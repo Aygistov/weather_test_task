@@ -10,3 +10,5 @@ The screen displays the current weather, city name, weather for the next five da
 It will be a plus to draw a weather scale (graph) by day.
 
 The deadline is up to 2 days.
+
+Live: [result](https://weather-test-task-aygistov.web.app/)
