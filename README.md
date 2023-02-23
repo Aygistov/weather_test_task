@@ -1,30 +1,12 @@
 # weather_test_task
 
-A new Flutter project.
+Test Task:
 
-## Getting Started
+Link to the service - [openweathermap.org](https://openweathermap.org)
+At the first login, the user has to enter their city.
+After that, the user is taken to the main weather forecast screen.
+The screen displays the current weather, city name, weather for the next five days, humidity, and pressure. Design in a free style, following the Material design concept.
 
-This project is a starting point for a Flutter application that follows the
-[simple app state management
-tutorial](https://flutter.dev/docs/development/data-and-backend/state-mgmt/simple).
+It will be a plus to draw a weather scale (graph) by day.
 
-For help getting started with Flutter development, view the
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-## Assets
-
-The `assets` directory houses images, fonts, and any other files you want to
-include with your application.
-
-The `assets/images` directory contains [resolution-aware
-images](https://flutter.dev/docs/development/ui/assets-and-images#resolution-aware).
-
-## Localization
-
-This project generates localized messages based on arb files found in
-the `lib/src/localization` directory.
-
-To support additional languages, please visit the tutorial on
-[Internationalizing Flutter
-apps](https://flutter.dev/docs/development/accessibility-and-localization/internationalization)
+The deadline is up to 2 days.
