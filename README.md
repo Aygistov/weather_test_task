@@ -11,4 +11,4 @@ It will be a plus to draw a weather scale (graph) by day.
 
 The deadline is up to 2 days.
 
-Live: [result](https://weather-test-task-aygistov.web.app/)
+[Result demo](https://weather-test-task-aygistov.web.app/)
